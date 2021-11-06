@@ -1,2 +1,3 @@
 # MSDS434-W7
-Staging and Production
+
+This is a simple python Flask app with staging and production environments dockerized and deployed on Google Cloud App Engine.
